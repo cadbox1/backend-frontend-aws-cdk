@@ -44,8 +44,6 @@ I highly recommend Netlify and Netlify Functions if you just need a frontend and
 1. `cd src/frontend`.
 1. `yarn start`.
 
-## 
-
 ## References
 - [Getting Started](wihttps://docs.aws.amazon.com/cdk/latest/guide/getting_started.html)
 - [Serverless Guide](https://docs.aws.amazon.com/cdk/latest/guide/serverless_example.html)
