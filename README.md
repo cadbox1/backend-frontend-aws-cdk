@@ -45,7 +45,8 @@ I highly recommend Netlify and Netlify Functions if you just need a frontend and
 1. `yarn start`.
 
 ## References
-- [Getting Started](wihttps://docs.aws.amazon.com/cdk/latest/guide/getting_started.html)
+
+- [Getting Started](https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html)
 - [Serverless Guide](https://docs.aws.amazon.com/cdk/latest/guide/serverless_example.html)
 - [Backend example](https://github.com/aws-samples/aws-cdk-examples/tree/master/typescript/api-cors-lambda-crud-dynamodb)
 - [Static site example](https://github.com/aws-samples/aws-cdk-examples/tree/master/typescript/static-site)
